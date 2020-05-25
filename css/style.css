@@ -1,0 +1,56 @@
+body{
+	background-color: #eee;
+	font-family: Segoe UI;
+	font-weight: ;
+	font-style: normal;
+}
+
+a{
+	text-decoration: none;
+	color: #2782B8;
+	margin: 5px;
+}
+
+.cardH1{
+	color: #555555;	
+	font-family: airport;
+	font-weight: lighter;
+	margin: 0;
+}
+
+.card{	
+
+	width: 500px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 40px;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	border-radius: 10px;
+
+}
+
+.htmlPhoto{
+	object-fit: cover;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    margin-left: 0px;
+}
+
+.block{
+	margin-top: 10px;
+	display: flex;
+}
+
+.textCard{
+	float: right;
+}
+
+.textCard span{
+	color: #9E9E9E;
+	font-style: italic;
+}
+
+.textCard p{
+	margin: 5px;
+}
