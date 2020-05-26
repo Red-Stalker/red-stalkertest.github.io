@@ -1,7 +1,6 @@
 body{
 	background-color: #eee;
 	font-family: Segoe UI;
-	font-weight: ;
 	font-style: normal;
 }
 
@@ -20,7 +19,6 @@ a{
 
 .card{	
 
-	width: 500px;
 	margin: 0 auto;
 	background-color: #fff;
 	padding: 40px;

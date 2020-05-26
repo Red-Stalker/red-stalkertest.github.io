@@ -1,5 +1,17 @@
+@media (max-width: 1920px){
+	.card{
+		width: 500px;
+	}
+}
+
 @media (max-width: 1000px){
 	.htmlPhoto{
 		display: none;
+	}
+}
+
+@media (max-width: 1000px){
+	.card{
+		width: 80%;
 	}
 }
